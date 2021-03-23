@@ -1,4 +1,4 @@
-### Hi there 👋
+### jinsun-lee.github.io 👋
 
 <!--
 **Jinsun-Lee/Jinsun-Lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
