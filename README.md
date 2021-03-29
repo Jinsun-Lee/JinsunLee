@@ -1,4 +1,4 @@
-### https://jinsunlee.github.io/# 👋
+### https://jinsun-lee.github.io/# 👋
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinsun-lee)](https://github.com/anuraghazra/github-readme-stats)
 
